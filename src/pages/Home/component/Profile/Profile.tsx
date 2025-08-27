@@ -7,7 +7,7 @@ export const Profile = () => {
     <Container maxWidth={false} sx={{ px: 4, py: 6 }}>
       <Box textAlign="center" mb={4}>
         <Typography variant="h4" component="legend" gutterBottom>
-          I am a passionate Software Engineer
+          I am a passionate "Software Engineer"
         </Typography>
       </Box>
 
@@ -20,7 +20,7 @@ export const Profile = () => {
         }}
       >
         <Typography variant="body1" paragraph>
-          I am a passionate Software Engineer with 10 years of experience, and
+          I am a passionate "Typescript Developer" with 10 years of experience, and
           for the past 3 years I have been working deeply in the GIS domain at
           HERE Maps.
         </Typography>
